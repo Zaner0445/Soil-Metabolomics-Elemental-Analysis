@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 
 # Set working directory
-setwd("/Users/zanevickery/Desktop/Van Krevelen for soil paper")
+setwd("")
 
 # Prompt the user to select a single CSV file manually
 file_path <- file.choose()  # This will open a file dialog to choose the CSV
