@@ -1,6 +1,6 @@
 # Elemental Ratio Analysis Script for Soil Metabolomics
 
-This repository contains an R script designed for calculating and visualizing elemental ratios (C/N, C/P, C/S, O/C, H/C) in soil samples. The script processes CSV data, calculates ratios, and generates box plots to compare ratios across different soil types.
+This repository contains an R script designed for calculating and visualizing elemental ratios (C/N, C/P, C/S, O/C, H/C) in soil samples. The script processes CSV data, calculates ratios, and generates violin plots to compare ratios across different soil types.
 
 ## Installation
 1. Install R and RStudio if you don't have them yet.
