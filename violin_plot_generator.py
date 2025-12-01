@@ -8,9 +8,9 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # -------- USER INPUTS --------
-data_path = "CN_data_for_violin_plot.csv"   # Path to your CSV
-output_path = "CN_violin_plot_filtered.svg" # Output SVG file
-title_text = "C/N Ratio Across Land Management Types (Outliers Removed)"
+data_path = ""   # Path to your CSV
+output_path = "" # Output SVG file
+title_text = ""
 y_label = "C/N Ratio"
 
 # Order of groups (consistent across all plots)
